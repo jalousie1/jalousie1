@@ -9,9 +9,10 @@
 
 </div>
 <div align="center">
-  - 🌱 I’m currently learning **java and javascript**
-  
-  - 💬 Ask me about **cartoons and games**
+
+- 🌱 I’m currently learning **java and javascript**
+
+- 💬 Ask me about **cartoons and games**
 </div>
 
 <h4 align="center">Connect with me:</h4>
