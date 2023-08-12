@@ -9,8 +9,6 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jalousie1&label=Profile%20views&color=0e75b6&style=flat" alt="jalousie1" /> </p>
-
 - 🌱 I’m currently learning **java and javascript**
 
 - 💬 Ask me about **cartoons and games**
