@@ -3,6 +3,8 @@
 
 <div align="center">
 
+  <p>📚 Studying Software Engineering</p>
+
   <p>Languages:  &#127463;&#127479; / &#127482;&#127480;</p> 
 
 </div>
