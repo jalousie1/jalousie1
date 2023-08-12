@@ -3,9 +3,7 @@
 
 <div align="center">
 
-  <p>&#127463;&#127479; / &#127482;&#127480;</p> 
-
-<p>Languages</p>
+  <p>Languages: &#127463;&#127479; / &#127482;&#127480;</p> 
 
 </div>
 <div align="center">
