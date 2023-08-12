@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <p>&#127463;&#127479; / &#127482;&#127480;</p>
+  <p>&#127463;&#127479; / &#127482;&#127480;</p> 
 
 <p>Languages</p>
 
@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://www.instagram.com/peacemisssing/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/kiriekirie111"><img src="https://img.shields.io/badge/-Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
-  <a href="mailto:christiansmartins1@outlook.co" target="_blank"><img src="https://img.shields.io/badge/-email-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="mailto:christiansmartins1@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-email-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
