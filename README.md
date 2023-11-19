@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Chris</h1>
-<h3 align="center">I'm currently studying back-end</h3>
 
 <div align="center">
 
