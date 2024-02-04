@@ -1,5 +1,4 @@
 <h4 align="center">chris</h1>
-<h4 align="center"><a href="https://jalousie.vercel.app/">wrong</a></h4>
 
 <div align="center">
 
