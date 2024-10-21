@@ -1,5 +1,3 @@
-<h4 align="center">chris</h1>
-
 <div align="center">
 
 &#127463;&#127479; / &#127482;&#127480;</p> 
